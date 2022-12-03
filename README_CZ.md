@@ -18,12 +18,12 @@ Na zadní straně je pájecí most, kde si můžeš vybrat adresu a zapojit tak 
 ![Osazený modul - zadní strana](https://github.com/LaskaKit/BMP280-Sensor/blob/main/img/2.jpg)
 
 ## BMP280
-Minimální napětí je 1.71V
-Maximální pak 3.6V.
-Spotřeba je 2.7uA (@1Hz) - hodí se tak na bateriově napájené projekty, ve spánku pak 0.1 uA.
-Rozlišení teplototního čidla je 0.01 °C, rozsah měření pak -40 až 85 °C.
-Rozlišení tlaku je 1hPa, rozsah 300 - 1100 hPa. 
+Minimální napětí je 1.71V</br>
+Maximální pak 3.6V.</br>
+Spotřeba je 2.7uA (@1Hz) - hodí se tak na bateriově napájené projekty, ve spánku pak 0.1 uA.</br>
+Rozlišení teplototního čidla je 0.01 °C, rozsah měření pak -40 až 85 °C.</br>
+Rozlišení tlaku je 1hPa, rozsah 300 - 1100 hPa. </br>
 
-Mezi podporované knihovny patří 
-https://github.com/adafruit/Adafruit_BMP280_Library
-https://github.com/MartinL1/BMP280_DEV
+Mezi podporované knihovny patří </br>
+https://github.com/adafruit/Adafruit_BMP280_Library</br>
+https://github.com/MartinL1/BMP280_DEV</br>
